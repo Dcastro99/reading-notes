@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Reading Notes
+
+## Growth Midset
 
 You can use the [editor on GitHub](https://github.com/Dcastro99/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
