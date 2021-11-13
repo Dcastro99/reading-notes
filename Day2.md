@@ -1,4 +1,6 @@
 ## Terminal Cheat Sheet:
+
+
 >1. pwd 
 - present working directory
 >2. ls 

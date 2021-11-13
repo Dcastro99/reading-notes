@@ -10,6 +10,10 @@
   - Understand that "Just because I don't know, doesn't mean I can't figure it out."
   - Remind myself to view challenges as an opportunity to learn and growm, not to give up.
   
+## Table Of Contents
+1. [Day 1]()
+2. [Day2](Day2.md)
+2. [Day3](Day3.md)
 
 ![Think Positive](https://user-images.githubusercontent.com/93397389/140864519-5dee8d1a-55b3-43ca-952b-6148de0cf556.png)
 
