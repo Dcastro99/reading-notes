@@ -13,7 +13,7 @@
 ## Table Of Contents
 1. [Day1](Day1.md)
 2. [Day2](Day2.md)
-2. [Day3](Day3.md)
-
+3. [Day3](Day3.md)
+4. [Day4](Day4.md)
 ![Think Positive](https://user-images.githubusercontent.com/93397389/140864519-5dee8d1a-55b3-43ca-952b-6148de0cf556.png)
 
