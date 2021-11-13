@@ -11,7 +11,7 @@
   - Remind myself to view challenges as an opportunity to learn and growm, not to give up.
   
 ## Table Of Contents
-1. [Day 1]()
+1. [Day1](Day1.md)
 2. [Day2](Day2.md)
 2. [Day3](Day3.md)
 
