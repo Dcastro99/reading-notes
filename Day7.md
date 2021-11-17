@@ -15,3 +15,5 @@
 
 **Division assignment	x /= y	x = x / y**
 
+
+* JavaScript allows functions to be used over and over again cutting down the CPU usage as well.
