@@ -6,27 +6,27 @@
 
 ## Code 102 Reading Notes
 ### Table Of Contents
-1. [Day1](Day1.md)
-2. [Day2](Day2.md)
-3. [Day3](Day3.md)
-4. [Day4](Day4.md)
-5. [Day5](Day6.md)
-6. [Day6](Day6.md)
-7. [Day7](Day7.md)
-8. [Day8](Day8.md)
+1. [Day 1](Day1.md)
+2. [Day 2](Day2.md)
+3. [Day 3](Day3.md)
+4. [Day 4](Day4.md)
+5. [Day 5](Day6.md)
+6. [Day 6](Day6.md)
+7. [Day 7](Day7.md)
+8. [Day 8](Day8.md)
 
 
 ## Code 201 Reading Notes
 
 ### Table Of Contents
-1. [Day1]()
-2. [Day2]()
-3. [Day3]()
-4. [Day4]()
-5. [Day5]()
-6. [Day6]()
-7. [Day7]()
-8. [Day8]()
+1. [Day 1]()
+2. [Day 2]()
+3. [Day 3]()
+4. [Day 4]()
+5. [Day 5]()
+6. [Day 6]()
+7. [Day 7]()
+8. [Day 8]()
 
 
   
