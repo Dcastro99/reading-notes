@@ -31,5 +31,5 @@
 
   
 
-![Think Positive](https://lh3.googleusercontent.com/proxy/LPFqvL2oTmjsyXFuXHY1vwPjO2WEMujQCwVNZelIcJ4xFwZ2y3Hfx4VLwNNc7QFhNq8THUZuBjssApbAsi2z-iipGie0i8WpYFBg9aWteXh3jsJmLCtcgSa3wh4bF_9f65MJ9f7k-2x3zZMLX6lUi44lTJ0urhtuxAbRwMLduBHx)
+    ![Think Positive](https://lh3.googleusercontent.com/proxy/LPFqvL2oTmjsyXFuXHY1vwPjO2WEMujQCwVNZelIcJ4xFwZ2y3Hfx4VLwNNc7QFhNq8THUZuBjssApbAsi2z-iipGie0i8WpYFBg9aWteXh3jsJmLCtcgSa3wh4bF_9f65MJ9f7k-2x3zZMLX6lUi44lTJ0urhtuxAbRwMLduBHx)
 
