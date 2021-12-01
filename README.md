@@ -1,16 +1,11 @@
 # Welcome to My Reading Notes
 
-## Growth Midset
+## Seattle CodeFellows
 
-> Growth mindset comes down to positive thinking in my book.  Remaining positive in every situation can be challenging but maintining that top of mind will help anyone break through daily challenges that they may be facing. Positive mind, positive outcome.
+>*Documenting and creating Reading Notes repo for my reading notes in each course that CodeFellows provides.  Here you can find daily notes listed in a table of content within each course.*
 
-
-### Ways to keep myself in a Growth Mindset
-  - Ask myself " in which way am I responding to the current situation"
-  - Understand that "Just because I don't know, doesn't mean I can't figure it out."
-  - Remind myself to view challenges as an opportunity to learn and growm, not to give up.
-  
-## Table Of Contents
+## Code 102 Reading Notes
+### Table Of Contents
 1. [Day1](Day1.md)
 2. [Day2](Day2.md)
 3. [Day3](Day3.md)
@@ -19,6 +14,22 @@
 6. [Day6](Day6.md)
 7. [Day7](Day7.md)
 8. [Day8](Day8.md)
+
+
+## Code 201 Reading Notes
+
+### Table Of Contents
+1. [Day1]()
+2. [Day2]()
+3. [Day3]()
+4. [Day4]()
+5. [Day5]()
+6. [Day6]()
+7. [Day7]()
+8. [Day8]()
+
+
+  
 
 ![Think Positive](https://user-images.githubusercontent.com/93397389/140864519-5dee8d1a-55b3-43ca-952b-6148de0cf556.png)
 
