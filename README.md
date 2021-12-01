@@ -31,5 +31,5 @@
 
   
 
-![Think Positive](https://user-images.githubusercontent.com/93397389/140864519-5dee8d1a-55b3-43ca-952b-6148de0cf556.png)
+![Think Positive](https://lh3.googleusercontent.com/proxy/LPFqvL2oTmjsyXFuXHY1vwPjO2WEMujQCwVNZelIcJ4xFwZ2y3Hfx4VLwNNc7QFhNq8THUZuBjssApbAsi2z-iipGie0i8WpYFBg9aWteXh3jsJmLCtcgSa3wh4bF_9f65MJ9f7k-2x3zZMLX6lUi44lTJ0urhtuxAbRwMLduBHx)
 
