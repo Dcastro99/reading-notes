@@ -21,6 +21,8 @@
 
 ### Table Of Contents
 
+- >[class 01](class-01.md) 
+
 1. [Day 1]()
 2. [Day 2]()
 3. [Day 3]()
@@ -29,5 +31,3 @@
 6. [Day 6]()
 7. [Day 7]()
 8. [Day 8]()
-
-    ![Think Positive](https://lh3.googleusercontent.com/proxy/LPFqvL2oTmjsyXFuXHY1vwPjO2WEMujQCwVNZelIcJ4xFwZ2y3Hfx4VLwNNc7QFhNq8THUZuBjssApbAsi2z-iipGie0i8WpYFBg9aWteXh3jsJmLCtcgSa3wh4bF_9f65MJ9f7k-2x3zZMLX6lUi44lTJ0urhtuxAbRwMLduBHx)
