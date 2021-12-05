@@ -6,7 +6,7 @@
 
 ## Code 102 Reading Notes
 
-![](https://get.pxhere.com/photo/man-thinking-ideas-brain-think-thinking-icon-questions-thinking-bubble-reflects-person-thinking-dream-books-reading-a-book-read-icon-to-write-study-library-reading-kids-reading-magazine-reading-newspaper-learning-cartoon-character-idea-blue-standing-human-behavior-shoulder-communication-conversation-line-joint-arm-font-hand-job-business-illustration-brand-graphic-design-thumb-1439979.jpg)
+![](images/thinking.png)
 
 ### Table Of Contents
 
@@ -21,7 +21,7 @@
 
 ## Code 201 Reading Notes
 
-![](https://get.pxhere.com/photo/book-reading-reading-a-book-cover-book-book-icon-books-isolated-books-stacked-library-bookshelves-old-books-pointing-man-full-up-body-isolated-length-people-finger-casual-boy-blue-background-brunette-caucasian-choice-choosing-confident-dude-fashion-guy-jeans-look-male-person-presenting-relaxed-seated-selecting-shirt-showing-sitting-cartoon-character-idea-design-yellow-standing-human-behavior-cartoon-line-arm-hand-clip-art-conversation-font-angle-illustration-graphics-communication-1439039.jpg)
+![](images/thinking2.png)
 
 ### Table Of Contents
 
