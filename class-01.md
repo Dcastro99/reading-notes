@@ -1,4 +1,4 @@
-# **Class 01 Notes**
+# **Intro to HTML an JavaScript**
 
 >## *HTML Chapter 1*
 
