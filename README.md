@@ -27,3 +27,4 @@
 
 - >[Intro to HTML an JavaScript](class-01.md) 
 - >[Basics of HTML, CSS & JS](class-02.md)
+- >[HTML list,Control Flow with JS, and the CSS Box Model](class-03.md)
