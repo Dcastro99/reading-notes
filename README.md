@@ -29,3 +29,4 @@
 - >[Basics of HTML, CSS & JS](class-02.md)
 - >[HTML list,Control Flow with JS, and the CSS Box Model](class-03.md)
 - >[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+- >[Images, Color, Text](class-05.md)
