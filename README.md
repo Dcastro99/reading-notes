@@ -33,3 +33,4 @@
 - >[Problem Domain, Objects, and the DOM](class-06.md)
 - >[Object-Oriented Programming, HTML Tables](class-07.md)
 - >[CSS Layout](class08.md)
+- >[Forms and Events](class09.md)
