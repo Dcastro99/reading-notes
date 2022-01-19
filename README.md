@@ -36,3 +36,4 @@
 - >[Forms and Events](class09.md)
 - >[Debugging](class10.md)
 - >[Audio, Video, Images](class-11.md)
+- >[Docs for the HTML < canvas > Element & Chart.js](class-12.md)
