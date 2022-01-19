@@ -26,3 +26,18 @@
 there you'd add the hight and width needed.
 
 - After you'd us < script > element in order to write the information needed for code.
+
+>## basic Usage
+
+- Canvas looks very similar to an image element but it doesn't contain an src nor alt atribute.
+
+- an exapmple of canvas can be seen below:
+
+>image was found pon https://www.northstarpmo.com/articles/business-model-canvas/
+
+
+![alt="canvas example"](images/canvas.png)
+
+>## Drawing Shapes with Canvas
+
+- Inside canvas you are able to draw shapes like rectangles, triangles, paths, moving pen and much more. 
