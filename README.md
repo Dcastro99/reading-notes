@@ -4,7 +4,7 @@
 
 >*Documenting and creating Reading Notes repo for my reading notes in each course that CodeFellows provides.  Here you can find daily notes listed in a table of content within each course.*
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 ![](images/thinking.png)
 
@@ -19,13 +19,13 @@
 7. [Programing with JavaScript](Day7.md)
 8. [Operations and loops](Day8.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ![](images/thinking2.png)
 
 ### Table Of Contents
 
-- >[Intro to HTML an JavaScript](class-01.md) 
+- >[Intro to HTML an JavaScript](class-01.md)
 - >[Basics of HTML, CSS & JS](class-02.md)
 - >[HTML list,Control Flow with JS, and the CSS Box Model](class-03.md)
 - >[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
@@ -40,3 +40,9 @@
 - >[Local Storage](class-13.md)
 - >[What Google learned about teams](class-14.md)
 - >[CSS Transforms, Transitions, and Animations](class-14a,md)
+
+## Code 301 - Intermediate Software Development
+
+![](images/bright.jpeg)
+
+### Table Of Contents
