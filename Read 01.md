@@ -30,3 +30,23 @@
   + **Reusable** - You can access and use them across the development of the system
 
   + **Reliability** - each component is realiable, strengthening the overall reliability of the system as a whole
+
+> ## Reading: "What is Props and How to Use it in React"
+
+1. What is “props” short for ?
+
++ Props are basically connectors. Connectors of components in React. They send datat between components and props is the way to pass that data.
+
+2. How are props used in React ?
+
++ Props are used to get dynamic outputs on different components. An example is if a Parent component has multiple child components that need to have different data, props can help facilitate that.
+
+3. What is the flow of props ?
+
++ **unidirectional flow** - from parent to child
+
+## Things I want to know more about
+
++ How to use react
+
++
