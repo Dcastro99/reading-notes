@@ -48,4 +48,4 @@
 ### Table Of Contents
 
 - >[Introduction to React and Components](Read01.md)
-- >[Introduction to React and Components](Read01.md)
+- >[State and Props](Read01.md)
