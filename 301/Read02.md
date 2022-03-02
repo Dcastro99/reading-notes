@@ -12,11 +12,11 @@
 
 3. Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
 
-Answer: 1. `React Updates`, 2. `constructor`, 3. `render`, 4.  `componentDidMount`, 5.`componentWillUnmount`  
+Answer: 1. ***`React Updates`, 2. `constructor`, 3. `render`, 4.  `componentDidMount`, 5.`componentWillUnmount`***
 
 4. What does componentDidMount do?
 
-Answer: It invokes a component right after React compnent has been mounted.
+Answer: ***It invokes a component right after React compnent has been mounted.***
 
 > ## Videp: "React State Vs Props"
 
