@@ -22,16 +22,20 @@ Answer: It invokes a component right after React compnent has been mounted.
 
 1. What types of things can you pass in the props?
 
--
+- THings you don't want to hard code. Such as text that simply displays, like a title.
 
 2. What is the big difference between props and state?
 
--
+- Props you pass into the components. State is inside your component.
 
 3. When do we re-render our application?
 
--
+- After the information passes through the component.
 
 4. What are some examples of things that we could store in state?
+
+- Things that need updating. Like information on a list. Grocery list checkbox.
+
+## Things I want to know more about
 
 -
