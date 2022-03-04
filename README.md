@@ -48,4 +48,5 @@
 ### Table Of Contents
 
 - >[Introduction to React and Components](Read01.md)
-- >[State and Props](Read01.md)
+- >[State and Props](Read02.md)
+- >[Passing Functions as Props](Read03.md)
