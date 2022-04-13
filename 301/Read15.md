@@ -37,10 +37,24 @@
 
 - What is Authorization Code Flow?
 
-- 
+- the process in which authorization takes place
 
 - What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
+
+- basically its a code verifier. Another process to authenticate
+
 - What is Implicit Flow with Form Post?
+
+- user to accesses app, authO is accessed by app, authO asks user to login and credantia;s, user gives it back and authO gives it to ID token to app
+
 - What is Client Credentials Flow?
+
+- Auth0 certifies after user requests and then the user provides token to API
+
 - What is Device Authorization Flow?
+
+- occurs on the device requesting authorization and the other occurs in a browser.
+
 - What is Resource Owner Password Flow?
+
+- requests that users provide credentials (username and password), typically using an interactive form.
