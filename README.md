@@ -69,3 +69,4 @@
 ### Table Of Contents
 
 - >[Engineering Readings](./401/Prep:Reading01.md)
+- >[The Growth Mindset](./401/Prep:Reading02.md)
