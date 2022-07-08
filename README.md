@@ -70,4 +70,5 @@
 
 - >[Engineering Readings](./401/Prep:Reading01.md)
 - >[The Growth Mindset](./401/Prep:Reading02.md)
-- >[Introduction to SQL](./401/IntroSQL.md)
+- >[Introduction to SQL](./401/Prep:IntroSQL.md)
+- >[Practice in the Terminal](./401/Prep:practiceintheterminal.md)
