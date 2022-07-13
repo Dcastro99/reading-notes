@@ -72,3 +72,5 @@
 - >[The Growth Mindset](./401/Prep:Reading02.md)
 - >[Introduction to SQL](./401/Prep:IntroSQL.md)
 - >[Practice in the Terminal](./401/Prep:practiceintheterminal.md)
+- >[Node Ecosystem](./401/read01.md)
+- >[Express, NPM, TDD, CI/CD](./401/read02.md)
