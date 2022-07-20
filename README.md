@@ -52,7 +52,7 @@
 - >[Passing Functions as Props](./301/Read03.md)
 - >[React and Forms](./301/Read04.md)
 - >[Putting it all together](./301Read05.md)
-- >[Node.js](./301Read06.md)
+- >[Node.js](./301/Read06.md)
 - >[REST](./301/Read07.md)
 - >[APIs](./301/Read08.md)
 - >[Functional Programming](./301/Read09.md)
@@ -75,3 +75,4 @@
 - >[Node Ecosystem](./401/read01.md)
 - >[Express, NPM, TDD, CI/CD](./401/read02.md)
 - >[Express REST API](./401/read03.md)
+- >[Data Modeling](./401/read04.md)
