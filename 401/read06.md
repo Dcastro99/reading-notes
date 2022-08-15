@@ -36,7 +36,7 @@
 
 2. How should your error messaging respond (both HTTP and HTML)? Why?
 
-- with `Status 500` becasue its a server error.
+- with `Status 500` becasue its a server error. Too much info on the error may give away crucial information to a potential hacker.
 
 
 ### Recources:
