@@ -86,3 +86,4 @@
 - > [AWS: S3 and Lambda](./401/read17.md)
 - > [AWS: API, Dynamo and Lambda](./401/read18.md)
 - > [AWS: Events](./401/read19.md)
+- > [Component Based UI](./401/read26.md)
