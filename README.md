@@ -89,3 +89,4 @@
 - > [Component Based UI](./401/read26.md)
 - > [UseState() Hook](./401/read27.md)
 - > [Component Lifecycle / useEffect Hook](./401/read28.md)
+- > [Advanced State with Reducers](./401/read29.md)
