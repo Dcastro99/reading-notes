@@ -96,3 +96,4 @@
 - > [`<Login />` and `<Auth />`](./401/read33.md)
 - > [Authentication Server / Module](./401/read34.md)
 - > [Graphs](./401/read35.md)
+- > [Application State with Redux](./401/read36.md)
