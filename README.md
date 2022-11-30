@@ -101,3 +101,4 @@
 - > [Redux - Asynchronous Actions](./401/read38.md)
 - > [Redux - Additional Topics](./401/read39.md)
 - > [React Native](./401/read40.md)
+- > [Ethics in Tech](./401/read42.md)
